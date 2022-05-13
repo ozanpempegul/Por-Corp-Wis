@@ -10,3 +10,9 @@ So Far Added:
 ![](https://github.com/ozanpempegul/Por-Corp-Wis/blob/main/gifs/interaction_with_environment.gif)
 
 ![](https://github.com/ozanpempegul/Por-Corp-Wis/blob/main/gifs/loading_next_scene.gif)
+
+![](https://github.com/ozanpempegul/Por-Corp-Wis/blob/main/gifs/animations.gif)
+
+![](https://github.com/ozanpempegul/Por-Corp-Wis/blob/main/gifs/help!.gif)
+
+![](https://github.com/ozanpempegul/Por-Corp-Wis/blob/main/gifs/ranged_weapon_and_projectiles.gif)
