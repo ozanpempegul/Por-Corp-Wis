@@ -1216,7 +1216,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1224,27 +1224,6 @@ TextureImporter:
       bones: []
       spriteID: a5a06117df4d3c24b9d626d38fa82f37
       internalID: 303383456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: menu_0
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 879abd9f7d66eaf4bbdc05b34eb9616d
-      internalID: 174712764
       vertices: []
       indices: 
       edges: []
@@ -1287,7 +1266,6 @@ TextureImporter:
       floor_carpet_5: -2105943807
       chest_1: 2075271903
       enemy_0: 303383456
-      menu_0: 174712764
       crate_0: 428781345
       wapon_2: 1973341870
       floor_carpet_1: -1549500667
