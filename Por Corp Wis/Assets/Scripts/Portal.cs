@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -16,7 +14,7 @@ public class Portal : Collidable
             // Game Saves after teleporting
             GameManager.instance.SaveState();
             // Teleport the player
-            string sceneName = sceneNames[1];
+            string sceneName = sceneNames[0];
             SceneManager.LoadScene(sceneName);
         }
     }

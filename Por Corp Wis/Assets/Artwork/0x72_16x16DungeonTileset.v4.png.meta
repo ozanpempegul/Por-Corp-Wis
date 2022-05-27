@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 99
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -1216,7 +1216,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1224,6 +1224,48 @@ TextureImporter:
       bones: []
       spriteID: a5a06117df4d3c24b9d626d38fa82f37
       internalID: 303383456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d972b5f6ad5d00f4c8428b58ece04046
+      internalID: 2002536833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb870a187b40ffc45b1aea5728d6aad4
+      internalID: -1306010294
       vertices: []
       indices: 
       edges: []
@@ -1250,6 +1292,7 @@ TextureImporter:
       stairs_1: 2054280135
       wapon_4: -435164874
       wall_1: -1443065003
+      gate_0: -1306010294
       pillar_2: -557866453
       wapon_3: 1391483201
       wapon_5: 1090157305
@@ -1266,6 +1309,7 @@ TextureImporter:
       floor_carpet_5: -2105943807
       chest_1: 2075271903
       enemy_0: 303383456
+      menu_0: 2002536833
       crate_0: 428781345
       wapon_2: 1973341870
       floor_carpet_1: -1549500667
