@@ -9,4 +9,6 @@ So Far Added:
 
 ![](https://github.com/ozanpempegul/Por-Corp-Wis/blob/main/gifs/animations.gif) ![](https://github.com/ozanpempegul/Por-Corp-Wis/blob/main/gifs/help!.gif)
 
-![](https://github.com/ozanpempegul/Por-Corp-Wis/blob/main/gifs/ranged_weapon_and_projectiles.gif) <iframe src="https://giphy.com/embed/aoXUqoPZ1WGAGAwGfL" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/aoXUqoPZ1WGAGAwGfL">via GIPHY</a></p>
+![](https://github.com/ozanpempegul/Por-Corp-Wis/blob/main/gifs/ranged_weapon_and_projectiles.gif) ![](https://github.com/ozanpempegul/Por-Corp-Wis/blob/main/gifs/Floating%20Text%20and%20Melee%20Combat.gif)
+
+![](https://github.com/ozanpempegul/Por-Corp-Wis/blob/main/gifs/Interactive%20UI.gif) ![](https://github.com/ozanpempegul/Por-Corp-Wis/blob/main/gifs/Healing%20Fountain.gif)
